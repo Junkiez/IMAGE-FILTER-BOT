@@ -1,0 +1,9 @@
+future>=0.16.0
+certifi
+tornado>=5.1
+cryptography
+python-telegram-bot>=20.0a2
+redis==4.1.2
+Flask==2.0.2
+Flask_Cors==3.0.10
+requests==2.25.1
