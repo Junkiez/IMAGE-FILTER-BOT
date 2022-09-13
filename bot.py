@@ -3,8 +3,8 @@
 # This program is dedicated to the public domain under the CC0 license.
 
 """
-Simple example of a Telegram WebApp which displays a color picker.
-The static website for this website is hosted by the PTB team for your convenience.
+Simple example of a Telegram WebApp which displays a photo filter.
+The static website for this website is hosted on the vercel.
 Currently only showcases starting the WebApp via a KeyboardButton, as all other methods would
 require a bot token.
 """
