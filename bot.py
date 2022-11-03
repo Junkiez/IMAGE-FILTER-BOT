@@ -1,12 +1,7 @@
-#!/usr/bin/env python
-# pylint: disable=unused-argument,wrong-import-position
-# This program is dedicated to the public domain under the CC0 license.
 
 """
 Simple example of a Telegram WebApp which displays a photo filter.
 The static website for this website is hosted on the vercel.
-Currently only showcases starting the WebApp via a KeyboardButton, as all other methods would
-require a bot token.
 """
 import base64
 from telegram.ext import Application, CommandHandler, ContextTypes, MessageHandler, filters
